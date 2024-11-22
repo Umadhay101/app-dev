@@ -20,7 +20,8 @@ A group of robbers, each named after a city (like Tokyo and Berlin), works under
 ### Main Characters:
 - **The Professor:** The planner of the heists.  
 - **Tokyo:** The narrator and a brave robber.  
-- **Berlin:** The Professor’s brother and a key member.  
+- **Berlin:** The Professor’s brother and a key member.
+- **Denver** was one of the robbers participating in the Royal Mint of Spain heist alongside his father, Agustín Ramos (Moscow).  
  
 ### Why You Should Watch:
 1. It’s full of exciting twists.  
